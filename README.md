@@ -1,1 +1,0 @@
-# NMAP-AFsoomali-
